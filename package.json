@@ -11,7 +11,7 @@
     "build:vinext": "vinext build",
     "preview": "vinext preview",
     "deploy": "vinext build && npx @vinext/cloudflare deploy"
-  }
+  },
   "dependencies": {
     "@prisma/client": "^7.10.0",
     "bcrypt": "^6.0.0",
